@@ -4,7 +4,7 @@
 
 ZoneNotify is a premium, full-stack application designed for high-accuracy location-based reminders. Built with a "Command Center" aesthetic, it leverages **PostGIS** for centimeter-perfect geofencing and **Native Web Push** for real-time alerts.
 
-![Hero Screenshot Placeholder](https://placehold.co/1200x600/050508/white?text=ZoneNotify+Landing+Page+Screenshot)
+![Hero Screenshot](./screenshots/landing.png)
 
 ## 🚀 Core Features
 
@@ -24,15 +24,16 @@ ZoneNotify is a premium, full-stack application designed for high-accuracy locat
 - **Maps**: [Leaflet](https://leafletjs.com/) (CartoDB Dark Matter)
 - **Notifications**: Web Push API + Service Workers
 
+## 🔗 Live url
+
+https://zone-notify.vercel.app/
+
 ## 📸 Screenshots
 
 | Landing Page | Dashboard (Monitor) |
 | :---: | :---: |
-| ![Landing Placeholder](https://placehold.co/600x400/050508/white?text=Landing+Page) | ![Dashboard Placeholder](https://placehold.co/600x400/050508/white?text=Tactical+Dashboard) |
+| ![Landing](./screenshots/landing.png) | ![Dashboard](./screenshots/dashboard.png) |
 
-| Geofence Alert | Mobile View |
-| :---: | :---: |
-| ![Alert Placeholder](https://placehold.co/600x400/050508/white?text=Push+Notification) | ![Mobile Placeholder](https://placehold.co/600x400/050508/white?text=Mobile+Interface) |
 
 ## ⚙️ Setup & Installation
 
